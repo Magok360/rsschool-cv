@@ -25,7 +25,7 @@ restaurant as a head manager, with staff, financial statements, marketing.
 1. Basic
 2. Vitebsk State Technological University - Marketing
 3. Bar School 
-4. M5. Rs School Stage 0 *(in the process)*
+4. Rs School Stage 0 *(in the process)*
 
 ### Languages
 - Russian
