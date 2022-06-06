@@ -1,6 +1,6 @@
 # Roman Maksimov    
-    *I am here to become the best programmer RS_school stage 0!* 
-    > Better to do than not to do
+*I am here to become the best programmer RS_school stage 0!* 
+> Better to do than not to do
 
 ### Contact 
 - **Email:** just.romaha212@gmail.com    
