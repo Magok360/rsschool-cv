@@ -20,7 +20,7 @@ restaurant as a head manager, with staff, financial statements, marketing.
 
 ### What i know in programming:    
 
-    <console.log("Rs_school");>
+<console.log("Rs_school");>
 
 ### My Education
 1. Basic
