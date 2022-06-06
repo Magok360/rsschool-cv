@@ -1,4 +1,5 @@
-# Roman Maksimov    
+# Roman Maksimov 
+***   
 *I am here to become the best programmer RS_school stage 0!* 
 
 > Better to do than not to do
@@ -8,6 +9,7 @@
 - **Github:** Magok360    
 - **Discord:** Magok360#8012    
 - **Tg:** @Magok360
+***
 
 ### Skills
 * Management
@@ -18,9 +20,11 @@
 Previously, I worked in the
 restaurant as a head manager, with staff, financial statements, marketing.
 
-### What i know in programming:    
+### `What i know in programming: `   
+```javascript
+<console.log('Welcome');>
+```
 
-<console.log("Rs_school");>
 
 ### My Education
 1. Basic
@@ -33,6 +37,6 @@ restaurant as a head manager, with staff, financial statements, marketing.
 - English *(Intermediate - B1)*
 - Gypsy *(2 words)*
 
-*The end.*
+ [x] *The end.*
 
 
