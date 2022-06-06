@@ -1,11 +1,11 @@
-    # Roman Maksimov 
+# Roman Maksimov    
     *I am here to become the best programmer RS_school stage 0!* 
     > Better to do than not to do
 
     ### Contact 
-    **email:** just.romaha212@gmail.com
-    **github** Magok360
-    **Discord** Magok360#8012
+    **email:** just.romaha212@gmail.com    
+    **github** Magok360    
+    **Discord** Magok360#8012    
     **tg** @Magok360
 
     ### Skills
