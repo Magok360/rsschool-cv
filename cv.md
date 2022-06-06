@@ -1,5 +1,5 @@
- # Roman Maksimov ![Фото](Me.jpg) 
-
+ # Roman Maksimov ![Фото](E:\Programming\RS_school\rsschool-cv\Me.jpg) 
+<image src='E:\Programming\RS_school\rsschool-cv\Me.jpg' alt='Фото'>
 *I'm here to become the best programmer RS_school stage 0!* 
 > Better to do than not to do
 
