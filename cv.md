@@ -1,6 +1,5 @@
- # Roman Maksimov ![Фото](E:\Programming\RS_school\rsschool-cv\Me.jpg) 
-<image 
-*I'm here to become the best programmer RS_school stage 0!* 
+ # Roman Maksimov 
+*I am here to become the best programmer RS_school stage 0!* 
 > Better to do than not to do
 
 ### Contact 
