@@ -19,7 +19,7 @@ Previously, I worked in the
 restaurant as a head manager, with staff, financial statements, marketing.
 
 ### What i know in programming:
-<console.log('100 points for me!');>
+<console.log("Rs_school");>
 
 ### My Education
 1. Basic
