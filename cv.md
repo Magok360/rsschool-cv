@@ -22,7 +22,7 @@ restaurant as a head manager, with staff, financial statements, marketing.
 
 ### `What i know in programming: `   
 ```javascript
-<console.log('Welcome');>
+console.log('Welcome');
 ```
 
 
