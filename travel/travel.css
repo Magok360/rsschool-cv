@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Aleo:ital,wght@0,400;0,700;1,400;1,700&family=Magra:wght@700&family=Red+Hat+Text:wght@500&display=swap");
+
+.site-logo {
+    width: 216px;
+    height: 31px;
+    font-family: "Magra";
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    margin-top: 25px;
+}
