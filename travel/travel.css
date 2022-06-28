@@ -221,3 +221,35 @@ a, a:focus, a:active, a:hover, a:link, a:visited {
     font-size: 24px;
     margin: 18px 18px;
 }
+.step {
+    width: 1177px;
+    height: 247px;
+    text-align: center;
+    margin: 80px auto 0;
+}
+.step h2 {
+    font-family: "Red Hat Text";
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 53px;
+    margin-bottom: 40px;
+    color: #F2785C;
+}
+.steps {
+    display: flex;
+    text-align: center;
+}
+.steps p {
+    margin-top: 30px;
+    font-family: "Aleo:";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #0D606F;
+}
+.biker {
+    display: inline-block;
+    width: 222px;
+    height: 154px;
+    margin-left: 231px;
+}
