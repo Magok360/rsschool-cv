@@ -221,13 +221,13 @@ a, a:focus, a:active, a:hover, a:link, a:visited {
     font-size: 24px;
     margin: 18px 18px;
 }
-.step {
+.steps {
     width: 1177px;
     height: 247px;
     text-align: center;
     margin: 80px auto 0;
 }
-.step h2 {
+.steps h2 {
     font-family: "Red Hat Text";
     font-weight: 500;
     font-size: 40px;
@@ -235,11 +235,11 @@ a, a:focus, a:active, a:hover, a:link, a:visited {
     margin-bottom: 40px;
     color: #F2785C;
 }
-.steps {
+.steps2 {
     display: flex;
     text-align: center;
 }
-.steps p {
+.steps2 p {
     margin-top: 30px;
     font-family: "Aleo:";
     font-weight: 400;
